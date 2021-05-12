@@ -13,7 +13,10 @@ import { HomeComponent } from './home/home.component';
 import { DeliverymethodDetailsComponent } from './deliverymethod-details/deliverymethod-details.component';
 import { DeliverymethodListComponent } from './deliverymethod-list/deliverymethod-list.component';
 import { UpdateDeliverymethodComponent } from './update-deliverymethod/update-deliverymethod.component';
+<<<<<<< HEAD
 import { CartManagementComponent } from './cart-management/cart-management.component';
+=======
+>>>>>>> 0c5926d8710d9c579dd39754194b7d39a1f941af
 
 
 
@@ -28,7 +31,10 @@ import { CartManagementComponent } from './cart-management/cart-management.compo
     DeliverymethodDetailsComponent,
     DeliverymethodListComponent,
     UpdateDeliverymethodComponent,
+<<<<<<< HEAD
     CartManagementComponent,
+=======
+>>>>>>> 0c5926d8710d9c579dd39754194b7d39a1f941af
   
   ],
   imports: [
